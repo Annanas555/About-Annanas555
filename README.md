@@ -13,3 +13,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Annanas555)](https://git.io/streak-stats)
 
 <p> You can reach me via Telegram: @dudina_02 📲 </p>
+
+<p>I hope you're having fun here. And if not, catch the joke:</p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
