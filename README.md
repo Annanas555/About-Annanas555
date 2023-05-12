@@ -5,7 +5,7 @@
 
 <p> I'm currently learning languages: </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annanas555&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annanas555&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> My first projects were a website about cars, an application for a wanted list database, and an application for tracking my expenses. 💻 </p>
 <p>Would you like to see my statistics?</p>
