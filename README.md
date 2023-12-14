@@ -1,7 +1,7 @@
 # <div align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%1919ff&lines=About+me)](https://git.io/typing-svg)
 </div>
-<p>Hello! My name is Anna Dudina, and I'm a novice software developer. 🤓</p>
+<p>Hello! My name is Anna Dudina, and I'm a software developer. What I like most is the field of system programming.</p>
 
 <p> I'm currently learning languages: </p>
 
