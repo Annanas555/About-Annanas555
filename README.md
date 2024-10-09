@@ -4,7 +4,7 @@
   
 </div>
 
-<p align="center">Hello! My name is Anna Dudina, and I'm a software developer with a love for system programming.</p>
+<p align="center">Hello! My name is Anna, and I'm a software developer with a love for system programming.</p>
 
 <p align="center"> I'm currently learning languages: </p>
 
